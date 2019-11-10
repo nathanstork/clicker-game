@@ -1,0 +1,7 @@
+// LINES WITH '//' AT ITS START ARE IGNORED.
+// Do not change layout or numeric values.
+highscore_0 = 0
+highscore_1 = 0
+highscore_2 = 0
+highscore_3 = 0
+difficulty = 0
